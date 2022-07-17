@@ -1,0 +1,5 @@
+Po rm -rf: 
+ 	meson setup build
+	meson devenv -C build (w katalogu EQ)
+ 	ninja w build
+
